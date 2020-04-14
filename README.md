@@ -1,6 +1,6 @@
 # Rounded BottomNavigationView
 
-![image](https://user-images.githubusercontent.com/30828060/79256648-fe566580-7ea5-11ea-86c1-9f1264b5e7f2.png)
+![image](https://user-images.githubusercontent.com/30828060/79257009-93f1f500-7ea6-11ea-8ed5-55caf64301fd.png)
 
 
 ## © License 
